@@ -1,4 +1,4 @@
-# React and CoinGecko API
+# React y CoinGecko API
 
 Esta es una aplicación web frontend construida con **React** que utiliza la API de criptomonedas **CoinGecko** para obtener datos en tiempo real sobre criptomonedas. El proyecto también utiliza el framework **TailwindCSS** para el diseño y estilización.
 
